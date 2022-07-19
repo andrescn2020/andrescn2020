@@ -59,4 +59,8 @@ My name is Andrés Capano and I am a Software Developer recently graduated from 
 
 <br />
 
-<a href="https://smartify.vercel.app/" target="_blank"> <img src="./images/Smartify.PNG" alt="Smartify" width="200" height="200"/> </a>
+<a href="https://smartify.vercel.app/" target="_blank"> <img src="./images/Smartify.PNG" alt="Smartify" width="250" height="200"/> </a>
+
+<a href="https://github.com/andrescn2020/Videogames" target="_blank"> <img src="./images/Videogames.PNG" alt="Videogames" width="250" height="200"/> </a>
+
+<a href="https://github.com/andrescn2020/Countries" target="_blank"> <img src="./images/Countries.PNG" alt="Countries" width="250" height="200"/> </a>
