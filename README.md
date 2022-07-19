@@ -1,3 +1,6 @@
+
+<img src="./images/GithubFondo.png">
+
 ¿Quién soy?
 Mi nombre es Andrés Capano y soy un Software Developer recién graduado del Bootcamp de Henry con orientación al Front-End con capacidad de realizar proyectos web teniendo siempre en mente que sean escalables, eficientes y moduralizables para así poder construir en equipo.
 
