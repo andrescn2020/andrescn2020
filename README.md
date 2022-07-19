@@ -55,3 +55,8 @@ My name is Andrés Capano and I am a Software Developer recently graduated from 
 
 · ⦿ Trello
 
+📌 My proyects
+
+<br />
+
+<a href="https://smartify.vercel.app/" target="_blank"> <img src="./images/Smartify.png" alt="Smartify" width="40" height="40"/> </a>
