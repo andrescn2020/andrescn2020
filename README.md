@@ -59,4 +59,4 @@ My name is Andrés Capano and I am a Software Developer recently graduated from 
 
 <br />
 
-<a href="https://smartify.vercel.app/" target="_blank"> <img src="./images/Smartify.PNG" alt="Smartify" width="40" height="40"/> </a>
+<a href="https://smartify.vercel.app/" target="_blank"> <img src="./images/Smartify.PNG" alt="Smartify" width="200" height="200"/> </a>
