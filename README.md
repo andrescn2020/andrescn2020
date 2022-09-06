@@ -4,11 +4,15 @@
 <h1 align="center">Hi 👋, I'm Andrés Capano</h1>
 <h3 align="center">I am a Software Developer recently graduated from Henry's Bootcamp with Front-End orientation and eager to keep learning about new technologies and meet new people related to this world!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrescn2020" alt="andrescn2020" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescn2020&label=Profile%20views&color=0e75b6&style=flat" alt="andrescn2020" /> </p>
+
+alt="andrescn2020" /></a> </p>
 
 - 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://andrescapano.vercel.app/](https://andrescapano.vercel.app/)
+
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **andrescn_2022@outlook.com**
 
