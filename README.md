@@ -1,76 +1,27 @@
 
 <img src="./images/GithubFondo.png">
 
-My name is Andrés Capano and I am a Software Developer recently graduated from Henry's Bootcamp with Front-End orientation and eager to keep learning about new technologies and meet new people related to this world!
+<h1 align="center">Hi 👋, I'm Andrés Capano</h1>
+<h3 align="center">I am a Software Developer recently graduated from Henry's Bootcamp with Front-End orientation and eager to keep learning about new technologies and meet new people related to this world!</h3>
 
-<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrescn2020" alt="andrescn2020" /></a> </p>
 
-⚫ Skills :
+- 🌱 I’m currently learning **AWS**
 
-<br />
+- 👨‍💻 All of my projects are available at [https://andrescapano.vercel.app/](https://andrescapano.vercel.app/)
 
-· ⦿ Teamwork
+- 📫 How to reach me **andrescn_2022@outlook.com**
 
-· ⦿ Problem solving
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/andrescapano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrescapano" height="30" width="40" /></a>
+</p>
 
-· ⦿ Comunication
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-· ⦿ Analytical skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn2020&show_icons=true&locale=en&layout=compact" alt="andrescn2020" /></p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&locale=en" alt="andrescn2020" /></p>
 
-⚫ I feel comfortable working with :
-
-<br />
-
-· ⦿ Semantic HTML5
-
-· ⦿ Advanced CSS3
-
-· ⦿ GIT
-
-· ⦿ Javascript ES6+
-
-· ⦿ React
-
-· ⦿ Redux
-
-· ⦿ Next
-
-· ⦿ Server side rendering
-
-· ⦿ Postman
-
-· ⦿ Node
-
-· ⦿ Express
-
-· ⦿ Firebase
-
-· ⦿ Sequalize
-
-· ⦿ Vercel
-
-· ⦿ Heroku
-
-· ⦿ Scrum
-
-· ⦿ Trello
-
-📌 My proyects
-
-<br />
-
-<a href="https://smartify.vercel.app/" target="_blank"> <img src="./images/Smartify.PNG" alt="Smartify" width="250" height="200"/> </a>
-
-<a href="https://github.com/andrescn2020/Videogames" target="_blank"> <img src="./images/Videogames.PNG" alt="Videogames" width="250" height="200"/> </a>
-
-<a href="https://github.com/andrescn2020/Countries" target="_blank"> <img src="./images/Countries.PNG" alt="Countries" width="250" height="200"/> </a>
-
-<br />
-
-📎 How to reach me:
-
-<a href="mailto:andrescn_2022@outlook.com" target="_blank"> <img src="./images/email.png" alt="Mail" width="50" height="50"/> </a>
-
-<a href="https://www.linkedin.com/in/andrescapano/" target="_blank"> <img src="./images/linkedin.png" alt="Linkedin" width="50" height="50"/> </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020" /></p>
