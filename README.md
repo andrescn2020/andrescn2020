@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Capano</h1>
 <h3 align="center">I am a Software Developer recently graduated from Henry's Bootcamp with Front-End orientation and eager to keep learning about new technologies and meet new people related to this world!</h3>
 
-- 🌱 I’m currently learning **AWS**, **Python** and **React Native**
+- 🌱 I’m currently learning **AWS**, **Python**, **React Native** and **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://andrescapano.vercel.app/](https://andrescapano.vercel.app/)
 
