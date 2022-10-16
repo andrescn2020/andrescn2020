@@ -38,8 +38,6 @@ const getBio = () => {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&theme=synthwave" alt="andrescn2020 :: Profile Stats" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&locale=en" alt="andrescn2020" />
-
 ---
 
 
