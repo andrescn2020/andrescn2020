@@ -14,7 +14,17 @@ const getBio = () => {
 }
 ```
 
-## <h2 align="center">You can reach me at</h2>
+<h2 align="center">You can reach me at</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/andrescapano">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Andres Capano LinkedIn Profile" height="30" width="30">
+  </a>
+	
+</p>
+
+<h2 align="center">Technologies :bar_chart:</h2>
 
 <p align="center">
 
@@ -26,11 +36,11 @@ const getBio = () => {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-## <h4 align="center">Top langs</h4>
+<h4 align="center">Top langs</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescn2020&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-## <h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020" /></p>
 
