@@ -34,8 +34,6 @@ const getBio = () => {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn2020&show_icons=true&locale=en&layout=compact" alt="andrescn2020" />
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&theme=synthwave" alt="andrescn2020 :: Profile Stats" /></p>
 
 ---
