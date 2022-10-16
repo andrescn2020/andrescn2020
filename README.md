@@ -28,6 +28,8 @@ const getBio = () => {
 
 <h4 align="center">Top langs</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescn2020&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
