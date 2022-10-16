@@ -32,7 +32,9 @@ const getBio = () => {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020 :: Profile Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn2020&show_icons=true&locale=en&layout=compact" alt="andrescn2020" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&locale=en" alt="andrescn2020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020" /></p>
 
