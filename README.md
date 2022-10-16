@@ -24,8 +24,6 @@ const getBio = () => {
 	
 </p>
 
-<h2 align="center">Technologies</h2>
-
 <p align="center">
 
 	
