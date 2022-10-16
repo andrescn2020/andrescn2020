@@ -22,10 +22,6 @@ const getBio = () => {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Andres Capano LinkedIn Profile" height="30" width="30">
   </a>
 	
-  <a href="https://www.linkedin.com/in/andrescapano">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Andres Capano LinkedIn Profile" height="30" width="30">
-  </a>
-	
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
