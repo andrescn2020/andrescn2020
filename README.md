@@ -5,7 +5,7 @@
 ```golang
 
 const getBio = () => {
-	return Bio{
+	return {
 		"- ⚡ Quick bio:":                    "I am a Software Developer recently graduated from Henry's Bootcamp with Front-End orientation and eager to keep learning about new technologies and meet new people related to this world!",
 		"- 🌱 I’m currently learning":        "AWS, Python, Nestjs, TypeScript, React Native",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
@@ -32,9 +32,9 @@ const getBio = () => {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn2020&show_icons=true&locale=en&layout=compact" alt="andrescn2020" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn2020&show_icons=true&locale=en&layout=compact" alt="andrescn2020" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&locale=en" alt="andrescn2020" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&locale=en" alt="andrescn2020" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020" /></p>
 
