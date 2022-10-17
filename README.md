@@ -37,8 +37,6 @@ const getBio = () => {
 
 <h2 align="center">Profile stats</h2>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrescn2020&" alt="andrescn2020" /></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&theme=synthwave" alt="andrescn2020 :: Profile Stats" /></p>
 
 ---
