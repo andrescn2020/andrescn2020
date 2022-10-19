@@ -6,7 +6,7 @@
 
 const getBio = () => {
 	return {
-		"- ⚡ Quick bio:":                    "I am a Software Developer recently graduated from Henry's Bootcamp with Front-End orientation and eager to keep learning about new technologies and meet new people related to this world!",
+		"- ⚡ Quick bio:":                    "I am a Full Stack Developer with eager to keep learning about new technologies and meet new people related to this world!",
 		"- 🌱 I’m currently learning":        "AWS, Python, Nestjs, TypeScript, React Native",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 📫 How to reach me:":              "https://github.com/andrescn2020",
