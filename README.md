@@ -7,7 +7,7 @@
 const getBio = () => {
 	return {
 		"- ⚡ Biografía rápida:": Soy un Full Stack Developer con ganas de seguir aprendiendo sobre nuevas tecnologías y conocer gente nueva relacionada con este mundo.
-		"- 🌱 Actualmente estoy aprendiendo": AWS, Python, Nestjs, TypeScript, React Native.
+		"- 🌱 Actualmente estoy aprendiendo": AWS, Python, Nestjs, TypeScript y React Native.
 		"- 🤔 Estoy buscando ayuda con": Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅.
 	}
 }
