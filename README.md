@@ -6,14 +6,14 @@
 
 const getBio = () => {
 	return {
-		"- ⚡ Biografía rápida:": Full Stack Developer con ganas de seguir aprendiendo sobre nuevas tecnologías y conocer gente nueva relacionada con este mundo.
-		"- 🌱 Actualmente estoy aprendiendo": AWS, TypeScript y Principios SOLID.
-		"- 🤔 Estoy buscando ayuda con": Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅.
+		"- ⚡ Quick biography:": Full Stack Developer eager to keep learning about new technologies and meet new people related to this world.
+		"- 🌱 I am currently learning": AWS, TypeScript y SOLID Principles.
+		"- 🤔 I am looking for help with": Anything related to what I am currently learning. 😅.
 	}
 }
 ```
 
-<h2 align="center">Puedes ponerte en contacto conmigo en:</h2>
+<h2 align="center">You can contact me at:</h2>
 
 <p align="center">
 
@@ -34,7 +34,7 @@ const getBio = () => {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescn2020&langs_count=10&theme=tokyonight&layout=compact" alt="andrescn2020 :: Top Langs" /></p>
 
-<h2 align="center">Estadísticas del perfil</h2>
+<h2 align="center">Profile statistics</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&theme=synthwave" alt="andrescn2020 :: Profile Stats" /></p>
 
