@@ -7,7 +7,7 @@
 const getBio = () => {
 	return {
 		"- ⚡ Quick biography:": Full Stack Developer eager to keep learning about new technologies and meet new people related to this world.
-		"- 🌱 I am currently learning": AWS, TypeScript y SOLID Principles.
+		"- 🌱 I am currently learning": AWS, TypeScript and SOLID Principles.
 		"- 🤔 I am looking for help with": Anything related to what I am currently learning. 😅.
 	}
 }
