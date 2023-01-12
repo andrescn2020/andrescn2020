@@ -34,8 +34,6 @@ const getBio = () => {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescn2020&langs_count=10&theme=tokyonight&layout=compact" alt="andrescn2020 :: Top Langs" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&theme=radical)
-
 <h2 align="center">Profile statistics</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrescn2020&show_icons=true&theme=synthwave" alt="andrescn2020 :: Profile Stats" /></p>
