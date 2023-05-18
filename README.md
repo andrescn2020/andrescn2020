@@ -1,6 +1,6 @@
 # Capano Andrés Nicolás
 
-<h2 align="center">Sobre Mí</h2>
+<h2 align="center">About Me</h2>
 
 ```golang
 
